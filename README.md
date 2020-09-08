@@ -14,12 +14,10 @@ Implemented security workflow via in-memory and JDBC authentication using Spring
 This independent project focus on making an online shopping website. I designed the whole project using MVC framework, here is the design diagram:
 ![image1](https://github.com/glorianachen/onlineShop/blob/master/rmFiles/Picture1.png)
 
-## Webpage
-
-All the materials for building the website are in folder "Website Visualization"
 
 ## Project Highlights
- ![image1](https://github.com/XinzeWang/Intersection-Analysis/raw/master/readme-resource/screen1.png)
+This is the ER diagram:
+ ![image1](https://github.com/glorianachen/onlineShop/blob/master/rmFiles/Picture2.png)
  
  ![image2](https://github.com/XinzeWang/Intersection-Analysis/raw/master/readme-resource/screen2.png)
  
