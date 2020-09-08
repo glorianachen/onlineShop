@@ -11,7 +11,8 @@ Implemented security workflow via in-memory and JDBC authentication using Spring
 ![title_logo](https://github.com/XinzeWang/Intersection-Analysis/raw/master/readme-resource/logo.png)
 
 ## Description
-This independent project focus on making an online shopping website. I designed the whole project using MVC framework, and
+This independent project focus on making an online shopping website. I designed the whole project using MVC framework, here is the design diagram:
+![image1](https://github.com/glorianachen/onlineShop/rmFiles/Picture1.png)
 
 ## Webpage
 
