@@ -17,6 +17,7 @@ This independent project focus on making an online shopping website. I designed 
 
 ## Project Highlights
 This is the ER diagram:
+
  ![image1](https://github.com/glorianachen/onlineShop/blob/master/rmFiles/Picture2.png)
  
  ![image2](https://github.com/XinzeWang/Intersection-Analysis/raw/master/readme-resource/screen2.png)
