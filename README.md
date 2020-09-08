@@ -20,9 +20,13 @@ This is the ER diagram:
 
  ![image1](https://github.com/glorianachen/onlineShop/blob/master/rmFiles/Picture2.png)
  
- ![image2](https://github.com/XinzeWang/Intersection-Analysis/raw/master/readme-resource/screen2.png)
+ This is the Register page:
  
- ![image3](https://github.com/XinzeWang/Intersection-Analysis/raw/master/readme-resource/screen3.png)
+ ![image2](https://github.com/glorianachen/onlineShop/blob/master/rmFiles/register.png)
+ 
+Here is the live demo:
+
+https://www.loom.com/share/6e31d01ae4534a758930f601984fe84b
 
 ## Installation
 ### Step one:
@@ -33,4 +37,4 @@ This is the ER diagram:
     Configuration: Download Apache Tomcat 9 in Eclipse.
 
 ### Step Three:
-    Maven Install. Connect to Tomcat, and then open localhost:8080 in browser.
+    Maven Install. Connect to Tomcat, and then open //localhost:8080/onlineShop in browser.
