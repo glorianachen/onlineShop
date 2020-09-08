@@ -11,7 +11,7 @@ Implemented security workflow via in-memory and JDBC authentication using Spring
 ![title_logo](https://github.com/XinzeWang/Intersection-Analysis/raw/master/readme-resource/logo.png)
 
 ## Description
-This project focus on recognize the congestion patterns among intersections and explore spatila clusters of congested intersecitons so that to indentify traffic bottlenecks in cities(mainly Atlanta).
+This independent project focus on making an online shopping website. I designed the whole project using MVC framework, and
 
 ## Webpage
 
