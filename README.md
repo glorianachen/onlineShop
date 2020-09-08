@@ -8,11 +8,11 @@ Integrated Spring MVC and Spring Web Flow to realize the functions of item searc
 Implemented security workflow via in-memory and JDBC authentication using Spring Security 
 
 ![Licence](https://img.shields.io/badge/Language-Java+Javascript-brightgreen)[![Licence](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/XinzeWang/Intersection-Analysis/raw/master/LICENSE) 
-![title_logo](https://github.com/XinzeWang/Intersection-Analysis/raw/master/readme-resource/logo.png)
+![title_logo](https://github.com/glorianachen/onlineShop/blob/master/rmFiles/Screen%20Shot%202020-09-07%20at%2020.11.43.png)
 
 ## Description
 This independent project focus on making an online shopping website. I designed the whole project using MVC framework, here is the design diagram:
-![image1](https://github.com/glorianachen/onlineShop/blob/master/rmFiles/Screen%20Shot%202020-09-07%20at%2020.11.43.png)
+![image1](https://github.com/glorianachen/onlineShop/blob/master/rmFiles/Picture1.png)
 
 ## Webpage
 
